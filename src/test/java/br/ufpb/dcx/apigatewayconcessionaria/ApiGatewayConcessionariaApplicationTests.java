@@ -1,4 +1,4 @@
-package br.ufpb.dcx.apiGatewayConcessionaria;
+package br.ufpb.dcx.apigatewayconcessionaria;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
