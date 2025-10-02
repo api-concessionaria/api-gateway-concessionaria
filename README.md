@@ -36,6 +36,7 @@ Baixe este repositório e também os repositórios dos microserviços:
 * `api-veiculos`
 * `api-auth`
 * `eureka-server`
+* `docker-escalabilidade`
 
 Coloque todos os diretórios dentro da **mesma pasta** local.
 
