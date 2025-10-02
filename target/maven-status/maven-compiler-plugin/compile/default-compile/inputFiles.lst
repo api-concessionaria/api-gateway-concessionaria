@@ -1,1 +1,5 @@
-/home/user/Developer/sd/api-gateway-concessionaria/src/main/java/br/ufpb/dcx/apigatewayconcessionaria/ApiGatewayConcessionariaApplication.java
+/home/user/Developer/dsc/api-concessionaria-microsservicos/api-gateway-concessionaria/src/main/java/br/ufpb/dcx/apigatewayconcessionaria/ApiGatewayConcessionariaApplication.java
+/home/user/Developer/dsc/api-concessionaria-microsservicos/api-gateway-concessionaria/src/main/java/br/ufpb/dcx/apigatewayconcessionaria/config/OpenApiConfig.java
+/home/user/Developer/dsc/api-concessionaria-microsservicos/api-gateway-concessionaria/src/main/java/br/ufpb/dcx/apigatewayconcessionaria/config/SecurityConfig.java
+/home/user/Developer/dsc/api-concessionaria-microsservicos/api-gateway-concessionaria/src/main/java/br/ufpb/dcx/apigatewayconcessionaria/filters/AuthenticationFilter.java
+/home/user/Developer/dsc/api-concessionaria-microsservicos/api-gateway-concessionaria/src/main/java/br/ufpb/dcx/apigatewayconcessionaria/security/SecurityConstants.java

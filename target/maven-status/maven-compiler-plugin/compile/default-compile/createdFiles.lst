@@ -1,1 +1,5 @@
+br/ufpb/dcx/apigatewayconcessionaria/config/OpenApiConfig.class
 br/ufpb/dcx/apigatewayconcessionaria/ApiGatewayConcessionariaApplication.class
+br/ufpb/dcx/apigatewayconcessionaria/security/SecurityConstants.class
+br/ufpb/dcx/apigatewayconcessionaria/filters/AuthenticationFilter.class
+br/ufpb/dcx/apigatewayconcessionaria/config/SecurityConfig.class
